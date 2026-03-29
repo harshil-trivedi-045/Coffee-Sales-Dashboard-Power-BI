@@ -3,6 +3,8 @@
 📌 Project Overview
 This project focuses on analyzing coffee sales data using Power BI to generate meaningful insights and create an interactive dashboard.
 
+Preview of Dashboard - https://app.powerbi.com/view?r=eyJrIjoiOGZmZjBjZWMtZTA1Yi00MTgyLWFjODQtZjJhOTJlNzgxYmIzIiwidCI6ImM0MTlhMWI2LTEyMmEtNGM5MS1hYTE1LWI5NTc3ODRiZDNkNCIsImMiOjN9
+
 The goal was to transform raw data into a visually appealing and easy-to-understand dashboard for better decision-making.
 
 🎯 Objectives
